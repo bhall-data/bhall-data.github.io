@@ -27,7 +27,7 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    toggleGrid();
+    // toggleGrid();
 
 
     // TODO 2 - Create Platforms
@@ -47,8 +47,8 @@ $(function () {
 
     // TODO 3 - Create Collectables
 
-      createCollectable("database", 625, 170, 0.5, 0.7);
-      createCollectable("database", 250, 170, 0.5, 0.7);
+      createCollectable("diamond", 625, 170, 0.5, 0.7);
+      createCollectable("steve", 250, 170, 0.5, 0.7);
       createCollectable("database", 1325, 170, 0.5, 0.7);
 
     
